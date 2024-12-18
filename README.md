@@ -4,7 +4,7 @@ This project is a sample API built with .NET, and demonstrates CRUD operations, 
 
 ## API Endpoints
 ### GET /api/records
-Retrieves all reecords.
+Retrieves all records.
 
 ### GET /api/records/{id}
 Retrieves record with the specified `id`.
